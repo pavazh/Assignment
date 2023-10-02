@@ -1,0 +1,13 @@
+{
+    "fields": {
+    "project":
+                {
+                    "key": "SAR"
+                },
+    "summary": "create second issue in RESTAS project",
+    "description": "Creating of second issue using project keys and issue type names using the RESTAS ",
+    "issuetype": {
+                    "name": "Bug"
+                }
+    }
+}
